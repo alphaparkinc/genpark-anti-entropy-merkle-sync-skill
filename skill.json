@@ -1,0 +1,14 @@
+{
+  "name": "genpark-anti-entropy-merkle-sync-skill",
+  "version": "1.0.0",
+  "description": "Anti-entropy Merkle tree range reconciliation protocol for fast replica divergence detection and state synchronization.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "anti-entropy",
+    "merkle-tree",
+    "replica-sync",
+    "data-reconciliation",
+    "distributed-databases"
+  ]
+}
